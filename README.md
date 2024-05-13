@@ -27,7 +27,6 @@ I'm Rahul Jagetia, a MERN Stack Developer with a keen eye for debugging. I'm pas
 ### Back-End Development
 
 ![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=node.js)
-![Django](https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django)
 ![Express.js](https://img.shields.io/badge/-Express.js-787878?style=flat-square&logo=express)
 <!-- Add more back-end skills -->
 
